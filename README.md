@@ -6,14 +6,16 @@ The Lambert Family Berry Farm website is a fictional, family-friendly destinatio
 
 # Features
 Navigation: The website includes a navigation bar with links to different sections such as "About Us," "Activities," and "Contact."
+
 Social Media Integration: Connect with Lambert Family Berry Farm on social media platforms like Instagram, Facebook, and Twitter.
+
 Testimonials: Read fictional testimonials and experiences from imaginary visitors through images and quotes.
 
 # Getting Started
 To get started, clone this repository to your local machine or download the HTML file. Open the HTML file in a web browser to explore the fictional Lambert Family Berry Farm website.
-``
+```
 git clone https://github.com/IshnoorKaur/BerryFarmWeb.git
-``
+```
 
 # Usage
 Feel free to use, modify, or enhance this code for your own projects. If you have suggestions for improvements or new features, please consider contributing.
